@@ -623,53 +623,53 @@ body {
   width: 40px;
   height: 40px;
   float: left;
-  margin-right: 20px;
+  margin-right: 16px;
   background-color: #1d2939;
-  border-radius: 10px;
+  border-radius: 8px;
   transition: all 0.4s ease;
+  padding: 8px;
 }
 .social-box-twitter img {
   width: 40px;
   height: 40px;
   float: left;
-  margin-right: 20px;
+  margin-right: 16px;
   background-color: #1d2939;
-  border-radius: 10px;
+  border-radius: 8px;
   transition: all 0.4s ease;
+  padding: 8px;
 }
 .social-box-instagram img {
   width: 40px;
   height: 40px;
   float: left;
-  margin-right: 20px;
+  margin-right: 16px;
   background-color: #1d2939;
-  border-radius: 10px;
+  border-radius: 8px;
   transition: all 0.4s ease;
+  padding: 8px;
 }
 .social-box-youtube img {
   width: 40px;
   height: 40px;
   float: left;
-  margin-right: 20px;
+  margin-right: 16px;
   background-color: #1d2939;
-  border-radius: 10px;
+  border-radius: 8px;
   transition: all 0.4s ease;
+  padding: 8px;
 }
 .social-box-facebook img:hover {
   background-color: #3f77f3;
-  transform: translateY(-5px);
 }
 .social-box-twitter img:hover {
   background-color: #3f77f3;
-  transform: translateY(-5px);
 }
 .social-box-instagram img:hover {
   background-color: #e4405f;
-  transform: translateY(-5px);
 }
 .social-box-youtube img:hover {
   background-color: #e4405f;
-  transform: translateY(-5px);
 }
 .our-products {
   float: left;
